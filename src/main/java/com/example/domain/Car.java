@@ -4,7 +4,7 @@ public class Car {
 	public int speed;
 
 	public void addSpeed() {
-		speed += 100;
+		speed += 150;
 	}
 
 }
